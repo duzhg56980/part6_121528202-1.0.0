@@ -1,0 +1,7 @@
+import org.apache.hadoop.ozone.container.common.impl.HddsDispatcher;
+public class FunctionUse345 {
+public void funcUse() {
+HddsDispatcher hddsdispatcher = new HddsDispatcher();
+hddsdispatcher.isContainerUnhealthy(null);
+}
+}

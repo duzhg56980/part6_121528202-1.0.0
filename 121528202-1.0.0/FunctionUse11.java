@@ -1,0 +1,7 @@
+import org.apache.hadoop.ozone.protocolPB.StorageContainerDatanodeProtocolServerSideTranslatorPB;
+public class FunctionUse11 {
+public void funcUse() {
+StorageContainerDatanodeProtocolServerSideTranslatorPB storagecontainerdatanodeprotocolserversidetranslatorpb = new StorageContainerDatanodeProtocolServerSideTranslatorPB();
+storagecontainerdatanodeprotocolserversidetranslatorpb.submitRequest(null,null);
+}
+}

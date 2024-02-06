@@ -1,0 +1,7 @@
+import org.apache.hadoop.ozone.container.common.statemachine.StateContext;
+public class FunctionUse676 {
+public void funcUse() {
+StateContext statecontext = new StateContext();
+statecontext.setState(null);
+}
+}
